@@ -1,4 +1,7 @@
 {
   "workbench.editor.enablePreview": false,
-  "workbench.editor.enablePreviewFromQuickOpen": false
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "main"
+  ]
 }
